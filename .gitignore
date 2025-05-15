@@ -1,3 +1,4 @@
 *.pkl
 icml_face_data.csv
 *.jpeg
+*~$*.docx
